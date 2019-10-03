@@ -1,0 +1,1 @@
+ Khi đã push lên github bước tiếp theo là tạo một file txt mới bằng website Github và pull nó về máy
